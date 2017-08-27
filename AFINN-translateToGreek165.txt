@@ -153,6 +153,7 @@ affection	3
 affectionate	3
 affectionateness	3
 afflicted	-1
+
 affordable	2
 affronted	-1
 aficionados	2
@@ -179,7 +180,11 @@ agonize	-3
 agonized	-3
 agonizes	-3
 agonizing	-3
+
 agree	1
+συμφωνώ 1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 agreeable	2
 agreed	1
 
@@ -203,8 +208,14 @@ alive	1
 allegation	-2
 allegations	-2
 allergic	-2
+
 allow	1
+επιτρέπω 1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 ally	2
+σύμμαχος 2
+//Sotiris Petsidimos 2014011 CSCW & MM
 
 // GIANNIS AGGELIS 2015006
 alone	-2
@@ -236,7 +247,11 @@ animosity	-2
 annoy	-2
 annoyance	-2
 annoyed	-2
+
 annoying	-2
+ενοχλητικός -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 annoys	-2
 antagonistic	-2
 anti	-1
@@ -304,7 +319,11 @@ astoundingly	3
 astounds	3
 atrocious	-3
 atrocity	-3
+
 attack	-1
+επίθεση -1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 attacked	-1
 attacking	-1
 attacks	-1
@@ -323,7 +342,11 @@ authority	1
 avenge	-2
 avenged	-2
 avenger	-2
+
 avengers	-2
+εκδικητές -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 avenges	-2
 avenging	-2
 avert	-1
@@ -471,8 +494,15 @@ boosting	1
 boosts	1
 bore	-2
 bored	-2
+
 boring	-3
+βαρετό -3
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 bother	-2
+σκοτίζομαι -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 bothered	-2
 bothers	-2
 bothersome	-2
@@ -519,6 +549,7 @@ bummer	-2
 buoyant	2
 burden	-2
 burdened	-2
+
 burdening	-2
 burdens	-2
 burglar	-2
@@ -536,18 +567,22 @@ cancels	-1
 cancer	-1
 capabilities	1
 
+
 // GIANNIS AGGELIS 2015006
 capability	1
 δυνατότητα 1
+
 
 capable	1
 captivated	3
 care	2
 φροντίδα 2 
+
 //Angelos Kalocheris 2015072 cscw
 carefree	1
 careful	2
 carefully	2
+
 carefulness	2
 careless	-2
 cares	2
@@ -562,6 +597,7 @@ celebrated	3
 celebrates	3
 celebrating	3
 celebration	3
+
 celebrations	3
 censor	-2
 λογοκρίνω -2
@@ -577,7 +613,11 @@ championed	2
 champions	2
 chance	2
 chances	2
+
 chaos	-2
+χάος -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 chaotic	-2
 charged	-3
 charges	-2
@@ -602,6 +642,7 @@ cheaters	-3
 cheating	-3
 cheats	-3
 cheer	2
+
 cheered	2
 cheerful	2
 cheerfully	2
@@ -614,7 +655,8 @@ cherished	2
 cherishes	2
 cherishing	2
 chic	2
-chide	-3
+1chide	-3
+
 chided	-3
 chides	-3
 chiding	-3
@@ -651,23 +693,37 @@ clouded	-1
 clueless	-2
 cock	-5
 cocksucker	-5
+
 cocksuckers	-5
 cocky	-2
 coerced	-2
 coercion	-2
 collapse	-2
 collapsed	-2
+
 collapses	-2
+καταρρέει -2
+
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 collapsing	-2
 collide	-1
+
 collides	-1
+συγκρούεται -1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 colliding	-1
 collision	-2
 collisions	-2
 colluding	-3
 combat	-1
 combats	-1
+
 comedy	1
+κωμωδία 1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 comfort	2
 comfortable	2
 comfortably	2
@@ -690,14 +746,22 @@ compassionate	2
 compelled	1
 competencies	1
 competent	2
+
 competitive	2
+ανταγωνιστικό 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 complacent	-2
 complain	-2
 complained	-2
 complaining	-2
 complains	-2
 complaint	-2
+
 complaints	-2
+παράπονα -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 complicating	-2
 compliment	2
 complimented	2
@@ -730,6 +794,7 @@ consent	2
 consents	2
 consolable	2
 conspiracy	-3
+
 constipation	-2
 constrained	-2
 contagion	-2
@@ -750,6 +815,7 @@ contemptuously	-2
 contend	-1
 contender	-1
 contending	-1
+
 contentious	-2
 contestable	-2
 controversial	-2
@@ -764,7 +830,11 @@ convivial	2
 cool	1
 cool stuff	3
 cornered	-2
+
 corpse	-1
+πτώμα -1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 corrupt	-3
 corrupted	-3
 corrupting	-3
@@ -788,18 +858,30 @@ crash	-2
 crazier	-2
 craziest	-2
 crazy	-2
+
 creative	2
+δημιουργικό 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 crestfallen	-2
 cried	-2
 cries	-2
+
 crime	-3
+έγκλημα -3
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 crimes	-3
 criminal	-3
 criminals	-3
 criminate	-3
 criminated	-3
 criminates	-3
+
 crisis	-3
+κρίση -3
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 critic	-2
 criticise	-2
 criticised	-2
@@ -807,6 +889,7 @@ criticises	-2
 criticising	-2
 criticism	-2
 criticize	-2
+
 criticized	-2
 criticizes	-2
 criticizing	-2
@@ -845,6 +928,7 @@ damages	-3
 damaging	-3
 damn	-2
 damn cute	3
+
 damn good	4
 damned	-4
 damnit	-4
@@ -856,7 +940,11 @@ danger	-2
 dangerous	-2
 dangerously	-2
 daredevil	2
+
 daring	2
+τολμηρό 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 darkest	-2
 darkness	-1
 dauntless	2
@@ -870,10 +958,18 @@ deadly	-3
 deafening	-1
 dear	2
 dearly	3
+
 death	-2
+θάνατος -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 deaths	-2
 debonair	2
+
 debt	-2
+χρέος -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 deceit	-3
 deceitful	-3
 deceive	-3
@@ -885,8 +981,13 @@ deceptive	-3
 decisive	1
 dedicated	2
 dedication	2
+
 defeat	-2
+ήττα -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 defeated	-2
+
 defect	-3
 defective	-3
 defects	-3
@@ -928,7 +1029,11 @@ delightful	3
 delightfully	3
 delighting	3
 delights	3
+
 demand	-1
+απαιτώ -1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 demanded	-1
 demanding	-1
 demands	-1
@@ -937,7 +1042,11 @@ demoralize	-2
 demoralized	-2
 demoralizes	-2
 demoralizing	-2
+
 denial	-2
+άρνηση -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 denials	-2
 denied	-2
 denier	-2
@@ -971,13 +1080,21 @@ derides	-2
 deriding	-2
 derision	-2
 desirable	2
+
 desire	1
+επιθυμώ 1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 desired	2
 desirous	2
 despair	-3
 despairing	-3
 despairs	-3
+
 desperate	-3
+απεγνωσμένος -3
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 desperately	-3
 despondent	-3
 destroy	-3
@@ -1000,6 +1117,7 @@ determined	2
 deterrent	-2
 detract	-1
 detracted	-1
+
 detracts	-1
 devastate	-2
 devastated	-2
@@ -1007,7 +1125,11 @@ devastating	-2
 devastation	-2
 devastations	-2
 devoted	3
+
 devotion	2
+αφιέρωση 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 devotional	2
 diamond	1
 dick	-4
@@ -1016,7 +1138,11 @@ die	-3
 died	-3
 difficult	-1
 diffident	-2
+
 dignity	2
+αξιοπρέπεια 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 dilemma	-1
 dilligence	2
 dipshit	-3
@@ -1037,7 +1163,11 @@ disagreement	-2
 disappear	-1
 disappeared	-1
 disappears	-1
+
 disappoint	-2
+απογοητεύω -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 disappointed	-2
 disappointing	-2
 disappointment	-2
@@ -1117,6 +1247,7 @@ disregarded	-2
 disregarding	-2
 disregards	-2
 disrespect	-2
+
 disrespected	-2
 disrupt	-2
 disrupted	-2
@@ -1157,11 +1288,22 @@ donate	2
 donated	2
 donates	2
 donating	2
+
 donation	2
+δωρεά 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 dont like	-2
 doom	-2
+
 doomed	-2
+καταδικασμένος -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 doubt	-1
+αμφιβάλλω -1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 doubted	-1
 doubtful	-1
 doubting	-1
@@ -1181,7 +1323,11 @@ dread	-2
 dreaded	-2
 dreadful	-3
 dreading	-2
+
 dream	1
+ονειρεύομαι 1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 dreams	1
 dreary	-2
 droopy	-2
@@ -1191,7 +1337,11 @@ drown	-2
 drowned	-2
 drowns	-2
 drudgery	-2
+
 drunk	-2
+μεθυσμένος -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 dubious	-2
 dud	-2
 dull	-2
@@ -1219,7 +1369,11 @@ easy	1
 ecstatic	4
 eerie	-2
 eery	-2
+
 effective	2
+αποτελεσματικός 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 effectively	2
 effectiveness	2
 effortlessly	2
@@ -1311,7 +1465,11 @@ escapes	-1
 escaping	-1
 esteem	2
 esteemed	2
+
 ethical	2
+ηθικός 2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 euphoria	3
 euphoric	4
 evacuate	-1
@@ -1362,7 +1520,11 @@ exonerated	2
 exonerates	2
 exonerating	2
 expand	1
+
 expands	1
+εξαπλώνεται 1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 expel	-2
 expelled	-2
 expelling	-2
@@ -1413,7 +1575,11 @@ fakes	-3
 faking	-3
 fallen	-2
 falling	-1
+
 false	-1
+ψευδή -1
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 falsely	-2
 falsified	-3
 falsify	-3
@@ -1429,7 +1595,11 @@ fascinates	3
 fascinating	3
 fascination	3
 fascist	-2
+
 fascists	-2
+φασίστες -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 fatal	-3
 θανάσιμος -3
 //Giwrgos Papakwnstantinoy P2013137 cscw
@@ -1455,7 +1625,11 @@ favourite	2
 favourited	2
 favourites	2
 favours	2
+
 fear	-2
+φόβος -2
+//Sotiris Petsidimos 2014011 CSCW & MM
+
 fearful	-2
 fearfully	-2
 fearing	-2
